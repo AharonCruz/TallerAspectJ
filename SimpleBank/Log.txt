@@ -1,0 +1,4 @@
+Deposito|Thu Jun 18 18:33:46 COT 2020
+Deposito|Thu Jun 18 21:16:46 COT 2020
+Deposito|Thu Jun 18 21:35:05 COT 2020
+Retiro|Thu Jun 18 21:35:37 COT 2020

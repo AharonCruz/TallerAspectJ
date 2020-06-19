@@ -15,4 +15,9 @@ public aspect Aspectos {
 		Archivos.guardar("Retiro|" + calendar.getTime().toString());
 	}
 	
+	pointcut success() : call(* create*(..) );
+    after() : success() { 
+    	System.out.println("**** User created ****");
+    }
+	
 }
